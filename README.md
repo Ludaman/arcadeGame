@@ -5,7 +5,7 @@ I am Jeff Choate.  This is a game I created for my Front End NanoDegree course o
 
 To get this game to load you should just need to download all the files in the currently laid out structure and load the index.html in any browser window.  Then the game can be played by using the arrow keys to move your player around.  If you get hit by a tumbling rock or a voracious lady bug then you get killed and sent back to the start.  If you make it to the safety of the water at the top then you will win and a dialog box will pop up to tell you just that!
 
-Thanks, ahve fun!
+Thanks, have fun!
 
 
 ---Old instructions from Udacity template
